@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Ugo\OneDrive\Documents\Private Learning\Private Learning of C, C++ and C#\C++\cpp_practice\PracticeFiles\ConsoleApplication1\ConsoleApplication1\Student.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ugo\OneDrive\Documents\Private Learning\Private Learning of C, C++ and C#\C++\cpp_practice\PracticeFiles\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(37,8): warning C4804: '>': unsafe use of type 'bool' in operation
+  ConsoleApplication1.vcxproj -> C:\Users\Ugo\OneDrive\Documents\Private Learning\Private Learning of C, C++ and C#\C++\cpp_practice\PracticeFiles\ConsoleApplication1\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
